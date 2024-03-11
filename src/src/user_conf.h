@@ -2,7 +2,7 @@
 #define USER_CONF_H
 
 // Display options.
-#define PRINTER_NAME       "VZERO"
+#define PRINTER_NAME       "ZEROD"
 #define DISPLAY_BRIGHTNESS 8
 
 // Overlay side indicators.
