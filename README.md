@@ -13,7 +13,7 @@ An additional Klipper module is needed to enable the ZeroD configuration options
 installed by running the included `install.sh` script on the Klipper host.
 
 ### Klipper configuration
-```
+```ini
 [zerod]
 serial:  # Path to the serial port for the ZeroD device.
 
